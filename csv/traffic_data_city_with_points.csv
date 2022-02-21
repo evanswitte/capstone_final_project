@@ -1,0 +1,6 @@
+country,city,lat,lon,harmonic_avg_speed,harmonic_avg_max_speed,traffic_density,avg_speed_points,traffic_dens_points
+Deutschland,hamburg,53.550556,9.993333,23.73,125.8,9302.14841398858,7,3
+Deutschland,muenchen,48.137154,11.576124,24.63,130.3,9146.005375533785,6,3
+Deutschland,koeln,50.936389,6.952778,22.85,141.0,9767.684029073132,8,5
+Deutschland,frankfurt am main,50.116667,8.683333,25.38,138.84,10858.20734277525,5,8
+Deutschland,berlin,52.518611,13.408333,21.83,129.7,9045.031800777151,9,2

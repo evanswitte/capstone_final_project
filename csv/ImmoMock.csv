@@ -1,0 +1,145 @@
+,name,address,postcode,latitude,longitude,price,size,city
+0,Sieglinde Merkel Halle,"Schönwalder Allee 26, 13587 Berlin",13587,52.56768,13.19242,2259130,2702,berlin
+1,Lagerhalle,"Fellbacher Straße 23, 13467 Berlin",13467,52.61642,13.30507,1164930,1351,berlin
+2,Mauerwerkhaus,"Wollankstraße 6, 13187 Berlin",13187,52.56804,13.39847,1569702,1855,berlin
+3,Walter von Klum Feld,"Alt-Wittenau, 13437 Berlin",13437,52.59061,13.32917,2424016,2917,berlin
+4,Philipp Klum Fläche,"Pfarrer-Lenzel-Straße 1-5, 13156 Berlin",13156,52.58848,13.39567,1736866,2072,berlin
+5,Karl Lorenz Park,"Alt-Wittenau, 13437 Berlin",13437,52.59109,13.32899,1032049,1170,berlin
+6,Lucas Ottersleben Haus,"Alt-Karow 20, 13125 Berlin",13125,52.61317,13.48439,1290286,1501,berlin
+7,Dr. Käthe Liebknecht Feld,"Kaiser-Friedrich-Straße 77, 10585 Berlin",10585,52.51183,13.30174,216696,283,berlin
+8,Grundstück mit Garten,"Soorstraße 60, 14057 Berlin",14057,52.50936,13.27819,574381,700,berlin
+9,Mauerwerkhaus,"Hardenbergstraße 22-24, 10623 Berlin",10623,52.50687,13.33065,1571953,1866,berlin
+10,Dr. Käthe Lorenz Haus,"Havelschanze 3, 13587 Berlin",13587,52.55422,13.20851,221173,287,berlin
+11,Sir Klum Halle,"Tharauer Allee 15, 14055 Berlin",14055,52.50999,13.22502,2334267,2819,berlin
+12,Walter von Schmidt Fläche,"Fasanenstraße 85, 10623 Berlin",10623,52.50717,13.32834,2492449,2978,berlin
+13,Sara Schumacher Fläche,"Brandenburgische Straße 80, 10713 Berlin",10713,52.48751,13.3184,2216087,2663,berlin
+14,Karl Schmidt Feld,"Bundesallee 48b-50, 10715 Berlin",10715,52.4842,13.33081,1071550,1216,berlin
+15,Riesengrundstück,"Thrasoltstraße 17, 10585 Berlin",10585,52.5146,13.30418,1987633,2354,berlin
+16,Philipp von Freud Feld,"Brandenburgische Straße 30, 10707 Berlin",10707,52.49859,13.30771,1882394,2219,berlin
+17,Philipp Merkel Halle,"Insterburgallee 13A, 14055 Berlin",14055,52.50877,13.25388,1765973,2092,berlin
+18,Sieglinde Reus Wiese,"Schellendorffstraße 20, 14199 Berlin",14199,52.47405,13.28745,2284310,2725,berlin
+19,Lucas von Porsche Garten,"John-Foster-Dulles-Allee 10, 10557 Berlin",10557,52.51848,13.36469,1414836,1679,berlin
+20,Karl Schmidt Wiese,"Rudolf-von-Gneist-Gasse, 10785 Berlin",10785,52.50759,13.37331,1086311,1238,berlin
+21,Samuel Ballack Fläche,"Hönower Straße 11, 10318 Berlin",10318,52.48896,13.52507,2075149,2456,berlin
+22,Philipp Meyer Haus,"Weidenweg 42, 10249 Berlin",10249,52.5173,13.4508,1791845,2103,berlin
+23,Philipp Porsche Park,"Karl-Liebknecht-Straße 9, 10178 Berlin",10178,52.52136,13.40649,1802309,2122,berlin
+24,Herr Freud Halle,"Bernauer Straße 115, 13355 Berlin",13355,52.53477,13.38859,928967,1059,berlin
+25,Mauerwerkhaus,"Pariser Platz 1, 10117 Berlin",10117,52.51587,13.37803,1461617,1711,berlin
+26,Philipp von Schulte Wiese,"Reinickendorfer Straße, 13347 Berlin",13347,52.55635,13.36489,1965678,2329,berlin
+27, Reus Park,"Charlottenstraße 53/54, 10117 Berlin",10117,52.51466,13.39098,160268,205,berlin
+28,Herr Freud Park,"Ystader Straße 10, 10437 Berlin",10437,52.54909,13.40439,930808,1065,berlin
+29,Sara Schumacher Feld,"DGZ-Ring, 13086 Berlin",13086,52.55719,13.44073,2208643,2661,berlin
+30,Riesengrundstück,"Gartenstraße 5, 13088 Berlin",13088,52.55032,13.47105,2006441,2385,berlin
+31,Heidi von Liebknecht Wiese,"Köpenicker Straße 302, 12683 Berlin",12683,52.47534,13.55765,775056,862,berlin
+32,Lucas Klum Areal,"Hirschfelder Weg 14, 12679 Berlin",12679,52.5451,13.5725,1276883,1480,berlin
+33,Mauerwerkhaus,"Suhler Straße 43, 12629 Berlin",12629,52.53657,13.58899,1463548,1716,berlin
+34,Käthe Merkel Fläche,"Goerzallee 189-223, 14167 Berlin",14167,52.41669,13.28987,1116332,1270,berlin
+35,Philipp Reus Gebäude,"Klingsorstraße 121, 12203 Berlin",12203,52.44299,13.31632,1832524,2152,berlin
+36,Sieglinde Bobo Wiese,"Teltower Damm 197, 14167 Berlin",14167,52.41636,13.26847,2238860,2682,berlin
+37,Heinrich Bobo Fläche,"Tristanstraße 20, 14109 Berlin",14109,52.42218,13.18937,817667,916,berlin
+38,Philipp von Schröder Halle,"Klingsorstraße 121, 12203 Berlin",12203,52.44299,13.31632,1946936,2320,berlin
+39, Freud Areal,"Fischerhüttenstraße 113, 14163 Berlin",14163,52.44453,13.23719,84918,105,berlin
+40,Grundstück mit Garten,"Johannesstraße 1, 14165 Berlin",14165,52.42452,13.25713,630441,752,berlin
+41,Heinrich Meyer Park,"Lichtenrader Damm 10, 12305 Berlin",12305,52.4133,13.40146,878805,979,berlin
+42,Sir Bobo Areal,"Kaiser-Wilhelm-Straße 68, 12247 Berlin",12247,52.43529,13.3437,2311988,2779,berlin
+43,Mauerwerkhaus,"Hohenzollernstraße 15, 12307 Berlin",12307,52.3841,13.38833,1553628,1829,berlin
+44,Mauerwerkhaus,"Drusenheimer Weg 46, 12349 Berlin",12349,52.41434,13.42065,1556996,1839,berlin
+45,Gewerbefläche,"Westphalweg 1, 12109 Berlin",12109,52.44504,13.39581,321019,375,berlin
+46,Dr. Käthe Ballack Wiese,"Saarstraße, 12161 Berlin",12161,52.46782,13.33583,189838,239,berlin
+47,Lucas von Ottersleben Feld,"Alt-Marienfelde 39, 12277 Berlin",12277,52.41227,13.36617,1403112,1663,berlin
+48,Herr Schulte Fläche,"Fürstenwalder Damm 474, 12587 Berlin",12587,52.45646,13.62366,988541,1121,berlin
+49,Dr. Käthe Goethe Feld,"Sellhopsweg 12-22, 22459 Hamburg",22459,53.62766,9.92914,213045,276,hamburg
+50,Grundstück mit Garten,"Bramfelder Chaussee 230, 22179 Hamburg",22179,53.61191,10.07681,569189,691,hamburg
+51,Walter von Liebknecht Areal,"Kakenhaner Weg 95, 22397 Hamburg",22397,53.69844,10.08807,2432015,2923,hamburg
+52,Lucas von Klum Areal,"Tangstedter Landstraße 201, 22417 Hamburg",22417,53.66051,10.02114,1383594,1620,hamburg
+53,Lucas von Porsche Fläche,"Quedlinburger Weg 100, 22455 Hamburg",22455,53.6377,9.94505,1412726,1677,hamburg
+54,Mauerwerkhaus,"Flughafenstraße 1-3, 22335 Hamburg",22335,53.62811,10.00754,1531735,1795,hamburg
+55,Philipp Precht Wiese,"Eulenkrugstraße 27, 22359 Hamburg",22359,53.64693,10.16429,1811640,2136,hamburg
+56,Walter von Schmidt Feld,"Neßdeich 6, 21129 Hamburg",21129,53.5366,9.84585,2492196,2978,hamburg
+57,Grundstück mit Garten,"Kalckreuthweg 74-80, 22607 Hamburg",22607,53.56545,9.88313,538318,669,hamburg
+58,Käthe Schumacher Halle,"Sportplatzring 71, 22527 Hamburg",22527,53.59413,9.92974,1159950,1343,hamburg
+59,Lucas von Ottersleben Park,"Rutsch 2, 22587 Hamburg",22587,53.55856,9.79836,1404234,1671,hamburg
+60,Heinrich Porsche Haus,"Baron-Voght-Straße 50, 22609 Hamburg",22609,53.55264,9.86578,887595,985,hamburg
+61,Grundstück mit Garten,"Christian-F.-Hansen-Straße 5, 22609 Hamburg",22609,53.54998,9.85769,600433,728,hamburg
+62,Sara Liebknecht Areal,"Hohenwischer Straße 157, 21129 Hamburg",21129,53.50863,9.86688,2171312,2601,hamburg
+63,Lagerhalle,"Speersort 10, 20095 Hamburg",20095,53.55001,9.99789,1248974,1435,hamburg
+64,Sir Precht Park,"Grindelallee, 20146 Hamburg",20146,53.56604,9.98211,2356988,2845,hamburg
+65,Lagerhalle,"Kaemmererufer 16, 22303 Hamburg",22303,53.58546,10.02924,1169920,1354,hamburg
+66,Sir Schröder Wiese,"Schulterblatt 73, 20357 Hamburg",20357,53.56239,9.96122,2398110,2874,hamburg
+67,Walter von Precht Fläche,"Ziesenißstraße 30, 22043 Hamburg",22043,53.56816,10.07525,2474758,2971,hamburg
+68,Sara Porsche Haus,"Ausschläger Weg, 20537 Hamburg",20537,53.55004,10.0363,2190520,2646,hamburg
+69,Lucas von Freud Gebäude,"Großer Burstah, 20457 Hamburg",20457,53.54905,9.99131,1348321,1588,hamburg
+70,Gewerbegebiet,"Rentzelstraße 48, 20146 Hamburg",20146,53.56521,9.97775,446110,520,hamburg
+71,Dr. Käthe Schröder Areal,"Bieberstraße 6, 20146 Hamburg",20146,53.5693,9.98517,285152,347,hamburg
+72,Sir Goethe Feld,"Lange Reihe, 20099 Hamburg",20099,53.55636,10.00982,2324007,2794,hamburg
+73,Riesengrundstück,"Hoheluftchaussee 105, 20253 Hamburg",20253,53.58266,9.97074,2006687,2388,hamburg
+74,Samuel Goethe Feld,"Bei der Schilleroper 15, 22767 Hamburg",22767,53.5576,9.96218,2089657,2475,hamburg
+75,Grundstück mit Garten,"Haldesdorfer Straße 70, 22179 Hamburg",22179,53.59857,10.07577,518131,644,hamburg
+76,Grundstück mit Garten,"Am Frankenberg 34, 21077 Hamburg",21077,53.43773,9.98132,559590,685,hamburg
+77,Dr. Käthe Bobo Feld,"Altengammer Elbdeich 42, 21039 Hamburg",21039,53.42942,10.29205,190868,241,hamburg
+78,Philipp von Schulte Wiese,"Bornbrook 7-11, 21031 Hamburg",21031,53.5063,10.19578,1977570,2344,hamburg
+79,Dr. Käthe Bobo Fläche,"Am Heidstamm 1, 50859 Köln",50859,50.94548,6.82665,194295,243,koeln
+80,Peter Goethe Park,"Neusser Straße 407, 50733 Köln",50733,50.97074,6.95189,1610661,1906,koeln
+81,Heidi von Meyer Haus,"Venloer Straße 702-704, 50827 Köln",50827,50.9595,6.89637,789888,887,koeln
+82,Käthe Ballack Haus,"Neusser Straße 340, 50733 Köln",50733,50.96746,6.95334,1097972,1257,koeln
+83,Gewerbefläche,"Subbelrather Straße 361, 50825 Köln",50825,50.95685,6.91211,384525,438,koeln
+84,Heinrich Schröder Halle,"Escher Straße 31, 50767 Köln",50767,51.0008,6.87386,912932,1035,koeln
+85,Lucas von Schulte Feld,"Mündelstraße 1, 51065 Köln",51065,50.96213,7.01079,1452262,1702,koeln
+86,Dr. Käthe Ottersleben Wiese,"Buchholzstraße 9, 51061 Köln",51061,50.98476,7.00039,266481,309,koeln
+87,Heinrich Schumacher Park,"Düsseldorfer Straße 53, 51063 Köln",51063,50.97238,7.00233,919325,1039,koeln
+88, Meyer Halle,"Bergisch Gladbacher Straße 987, 51069 Köln",51069,50.97906,7.07125,119565,138,koeln
+89,Riesengrundstück,"Friesenstraße 77, 50670 Köln",50670,50.94055,6.94146,2073116,2446,koeln
+90,Lucas Merkel Halle,"Rheinufertunnel, 50667 Köln",50667,50.93817,6.96268,1285026,1495,koeln
+91,Riesengrundstück,"Luxemburger Straße 260, 50937 Köln",50937,50.91526,6.92669,2050806,2428,koeln
+92,Grundstück mit Garten,"Bachemer Landstraße 420, 50935 Köln",50935,50.91845,6.88799,576931,710,koeln
+93,Samuel Schiller Haus,"Scheffelstraße 23-31, 50935 Köln",50935,50.92478,6.90931,2133563,2532,koeln
+94,Sara Reus Wiese,"Severinstraße 120, 50678 Köln",50678,50.92677,6.95804,2194195,2653,koeln
+95,Mauerwerkhaus,"Augustinerstraße 3, 50667 Köln",50667,50.93608,6.96008,1511187,1772,koeln
+96,Mauerwerkhaus,"Vogelsanger Weg 81, 50858 Köln",50858,50.93923,6.85236,1514035,1781,koeln
+97,Sara Freud Feld,"Magnusstraße 18 b, 50672 Köln",50672,50.94034,6.94454,2158578,2564,koeln
+98,Lucas Schröder Park,"Rolshover Straße 159, 51105 Köln",51105,50.92916,7.00011,1327396,1552,koeln
+99,Käthe Reus Areal,"Kölner Straße 64, 51149 Köln",51149,50.89674,7.041,1139850,1303,koeln
+100,Philipp von Schumacher Park,"Charlottenstraße 18, 51149 Köln",51149,50.90282,7.0342,1981758,2351,koeln
+101,Riesengrundstück,"Grüner Weg 23, 50999 Köln",50999,50.86782,7.01082,2041650,2423,koeln
+102,Peter Schumacher Areal,"Im Burgfeld 136, 60439 Frankfurt am Main",60439,50.15155,8.63165,1696849,2032,frankfurt am main
+103,Peter Klum Park,"Siolistraße, 60323 Frankfurt am Main",60323,50.12945,8.66698,1616033,1909,frankfurt am main
+104,Mauerwerkhaus,"Radilostraße 16, 60489 Frankfurt am Main",60489,50.12475,8.60976,1465801,1716,frankfurt am main
+105,Käthe Schröder Garten,"Sigmund-Freud-Straße 103, 60435 Frankfurt am Main",60435,50.15441,8.68296,1154108,1317,frankfurt am main
+106,Käthe Ballack Wiese,"Radilostraße 16, 60489 Frankfurt am Main",60489,50.1248,8.60964,1098098,1258,frankfurt am main
+107,Mauerwerkhaus,"Homburger Landstraße 5, 60389 Frankfurt am Main",60389,50.14098,8.69809,1491499,1738,frankfurt am main
+108,Philipp Precht Garten,"Am Erlenbruch 131, 60388 Frankfurt am Main",60388,50.13198,8.73914,1805158,2126,frankfurt am main
+109,Sara Freud Gebäude,"Fahrtor 1, 60311 Frankfurt am Main",60311,50.10947,8.68197,2158618,2580,frankfurt am main
+110,Heidi Ballack Fläche,"Markt 44, 60311 Frankfurt am Main",60311,50.11073,8.6828,630965,754,frankfurt am main
+111,Walter von Klum Garten,"Taunusstraße 34, 60329 Frankfurt am Main",60329,50.10931,8.66677,2426616,2918,frankfurt am main
+112,Heidi Schröder Gebäude,"Schifferstraße 65-67, 60594 Frankfurt am Main",60594,50.10617,8.68252,726428,825,frankfurt am main
+113,Dr. Käthe Reus Park,"Münchener Straße 19, 60329 Frankfurt am Main",60329,50.10777,8.67011,273188,323,frankfurt am main
+114,Käthe Ottersleben Areal,"Hostatostraße 15, 65929 Frankfurt am Main",65929,50.10151,8.54589,1122027,1286,frankfurt am main
+115,Grundstück mit Garten,"Am Salzhaus 1, 60311 Frankfurt am Main",60311,50.11155,8.67767,548004,672,frankfurt am main
+116,Mauerwerkhaus,"Schweizer Straße 3, 60594 Frankfurt am Main",60594,50.10513,8.67823,1538352,1800,frankfurt am main
+117,Heinrich Schmidt Park,"Ostbahnhofstraße 15, 60314 Frankfurt am Main",60314,50.11309,8.7055,907051,1017,frankfurt am main
+118,Samuel Ottersleben Garten,"Schwanthalerstraße 69, 80336 München",80336,48.1372,11.55517,2121512,2514,muenchen
+119,Sara Schumacher Garten,"Kurfürstenstraße, 80799 München",80799,48.15426,11.57626,2217234,2663,muenchen
+120,Gewerbegebiet,"Landwehrstraße, 80336 München",80336,48.13635,11.55867,479356,593,muenchen
+121, Schiller Haus,"Westenriederstraße 13, 80331 München",80331,48.13493,11.57732,166931,214,muenchen
+122,Gewerbegebiet,"Barer Straße 54D, 80799 München",80799,48.14957,11.57407,487725,617,muenchen
+123,Dr. Käthe Ballack Haus,"Steinbergerstraße 1, 80995 München",80995,48.21659,11.54441,181541,229,muenchen
+124,Grundstück mit Garten,"Lothstraße 62, 80335 München",80335,48.15474,11.55519,557941,680,muenchen
+125,Philipp Reus Gebäude,"Lazarettstraße, 80636 München",80636,48.15303,11.54912,1833574,2152,muenchen
+126,Herr Bobo Gebäude,"Ingolstädter Straße 229, 80939 München",80939,48.21294,11.58303,924934,1054,muenchen
+127,Lucas von Porsche Fläche,"Waisenhausstraße 4, 80637 München",80637,48.15801,11.53107,1413550,1678,muenchen
+128,Sir Schmidt Areal,"Lechelstraße 41, 80997 München",80997,48.17505,11.48973,2381995,2864,muenchen
+129,Grundstück mit Garten,"Josef-Frankl-Straße 17, 80995 München",80995,48.21399,11.53696,597776,720,muenchen
+130,Philipp Reus Areal,"Dietlindenstraße 15, 80802 München",80802,48.16563,11.59283,1816966,2137,muenchen
+131,Sir Porsche Haus,"Odinstraße 30, 81925 München",81925,48.15657,11.62346,2351358,2844,muenchen
+132,Gewerbegebiet,"Graf-Lehndorff-Straße 24, 81829 München",81829,48.14317,11.67618,439390,513,muenchen
+133, Meyer Halle,"Fraunhoferstraße 6, 80469 München",80469,48.13084,11.57193,120493,146,muenchen
+134,Walter von Schiller Park,"Südparkallee 15, 81379 München",81379,48.1085,11.51444,2486447,2975,muenchen
+135,Käthe Schumacher Park,"Munckerstraße 1, 81477 München",81477,48.08966,11.50487,1160656,1346,muenchen
+136,Gewerbegebiet,"Hans-Mielich-Straße 35, 81543 München",81543,48.11219,11.57045,465776,564,muenchen
+137,Dr. Käthe Ottersleben Areal,"Kistlerhofstraße 168, 81379 München",81379,48.09496,11.51143,250063,304,muenchen
+138,Sara Lorenz Fläche,"Nockherstraße 60, 81541 München",81541,48.11928,11.57778,2175797,2608,muenchen
+139,Käthe Schiller Feld,"Peschelanger, 81735 München",81735,48.10695,11.65643,1151428,1313,muenchen
+140,Gewerbegebiet,"Sankt-Martin-Straße 65, 81669 München",81669,48.12094,11.60421,490313,620,muenchen
+141,Käthe Meyer Haus,"Sankt-Michael-Straße 88, 81671 München",81671,48.12194,11.63155,1118568,1284,muenchen
+142,Grundstück mit Garten,"Eggernstraße 4, 81667 München",81667,48.13295,11.59508,602368,733,muenchen
+143,Philipp Schumacher Areal,"Staudingerstraße 58, 81735 München",81735,48.10971,11.63663,1872802,2207,muenchen

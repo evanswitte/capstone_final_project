@@ -1,0 +1,6 @@
+city,tavg_year,tsun_year,rain_days_year,rain_days_year_percent,no_rain_days_year,no_rain_days_year_percent,snow_days_year,snow_days_year_percent,no_snow_days_year,no_snow_days_percent,lat,lon,country
+hamburg,10.3,4.6,82.6,22.62,282.6,77.38,10.2,2.33,355.0,97.67,53.550556,9.993333,Deutschland
+muenchen,9.0,5.3,84.0,23.0,281.2,77.0,40.6,9.94,324.6,90.06,48.137154,11.576124,Deutschland
+koeln,12.2,4.6,84.8,23.22,280.4,76.78,5.0,1.12,360.2,98.88,50.936389,6.952778,Deutschland
+frankfurt am main,12.1,5.2,71.6,19.61,293.6,80.39,5.0,1.16,360.2,98.84,50.116667,8.683333,Deutschland
+berlin,10.9,5.0,68.0,18.62,297.2,81.38,6.8,1.59,358.4,98.41,52.518611,13.408333,Deutschland
