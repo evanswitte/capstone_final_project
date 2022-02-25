@@ -5,7 +5,7 @@ __Data driven decision making for small businesses__
 
 Developing a tool in the form of a dashboard in Tableau to help small sized businesses to make data-driven business decisions. In this example where to build the next carwash, as an case for a small business
 
-<img src="./data/carwash.png" width=75% height=50%>
+<img src="https://github.com/evanswitte/capstone_final_project/blob/main/carwash.png" width=75% height=50%>
 
 ___
 
